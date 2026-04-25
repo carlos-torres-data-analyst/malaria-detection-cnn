@@ -1,7 +1,7 @@
 # malaria-detection-cnn
 Deep Learning project for malaria detection using CNN
 
-# 🦠 Malaria Detection using Deep Learning (CNN)
+# 🦠 Malaria Detection using Deep Learning (CNN) – Healthcare AI 
 
 ## 📌 Overview
 
